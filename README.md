@@ -75,4 +75,5 @@ Extended Dataset: Expanding the dataset to include more waste categories and imp
 
 Research Paper
 For a more detailed explanation of our methodology and results, please refer to our research paper:
+
 [Attention Module-Based Waste Management: A Machine Learning Approach to Sorting Organic and Recyclable Materials](https://ieeexplore.ieee.org/document/10393702)
